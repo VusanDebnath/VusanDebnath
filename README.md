@@ -54,16 +54,17 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VusanDebnath&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VusanDebnath&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VusanDebnath&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
+
 
 ---
 
