@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm S. M. Vusan Debnath 👋
 
-<!--
-**VusanDebnath/VusanDebnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Developer | JavaScript & TypeScript | React
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm an aspiring web developer passionate about building modern and user-friendly web applications.
+
+I enjoy learning new technologies, improving my programming skills, and turning ideas into real-world projects.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- 🔭 Exploring TypeScript and React
+- 💻 Building web applications with JavaScript and React
+- 📚 Improving my frontend development skills
+- 🚀 Learning modern tools and technologies for web development
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: sm.vusandebnath@gmail.com
+- 🐙 GitHub: VusanDebnath
+
+---
+
+## 📊 GitHub
+
+I actively use GitHub to practice, learn, and build projects while improving my development skills.
+
+---
+
+⭐ Thanks for visiting my profile!
