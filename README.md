@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="S. M. Vusan Debnath - Web Developer Banner" width="100%">
+</p>
+
 # Hi, I'm S. M. Vusan Debnath 👋
 
 ### Aspiring Web Developer | JavaScript & TypeScript | React
