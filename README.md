@@ -53,8 +53,6 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VusanDebnath&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
